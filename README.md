@@ -1,5 +1,6 @@
 # wildScape
 *A prototype for discovering, documenting, and sharing the wildlife around you.*
+
  **Live Prototype:** https://your-link-here.com
 
 wildScape is an early-stage concept for a nature-focused social app built to celebrate outdoor discoveries. This prototype gives you a glimpse of how wildlife enthusiasts could log their sightings, explore what others are finding, and connect through a calm, visual, and community-centered experience.
